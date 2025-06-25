@@ -36,7 +36,7 @@ nav a {
   text-decoration: none;
   font-size: 1.5vw;
   height: 2vw;
-  width: 7vw;
+  width: 9vw;
   padding: 1.4vw 1.4vw;
   font-family: "Eagle Lake", serif;
   font-weight: 400;
@@ -63,7 +63,7 @@ nav a:hover {
 
 .card {
 background-color: #6d4040;
-height: 17vw;
+height: 27.5vw;
 }
 
 .cardtext {

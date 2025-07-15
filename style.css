@@ -415,10 +415,12 @@ height: 27.5vw;
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  padding: 2vw;
-  padding-top: 3vw;
+  padding: 0.2vw;
+  padding-left: 3vw;
   color: white;
-  text-align: center;
   box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
   background-color: #7D4F50;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }

@@ -142,8 +142,6 @@ height: 27.5vw;
 }
 
 .carousel {
-  margin: none;
-  padding: none;
   position: relative;
   width: 100%;
   -webkit-user-select: none;
@@ -176,8 +174,6 @@ height: 27.5vw;
 }
 
 .carousel2 {
-  margin: none;
-  padding: none;
   position: relative;
   width: 100%;
   -webkit-user-select: none;
@@ -314,7 +310,6 @@ height: 27.5vw;
   text-align: center;
   font-size: 1.5vw;
   font-family: "Roboto Condensed", sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
 }
 
@@ -415,10 +410,10 @@ height: 27.5vw;
   user-select: none;
   padding: 0.2vw;
   padding-left: 3vw;
+  padding-bottom: 2.5vw;
   color: white;
   box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
   background-color: #7D4F50;
   font-family: "Roboto Condensed", sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
 }

@@ -44,12 +44,12 @@ nav a {
 }
 
 nav a.active {
-  background-color: #a97576;
-  color: white;
+  background-color: #bd8b8c;
+  color: black;
 }
 
 nav a:hover {
-  background-color: #6d4040;
+  background-color: #5c3636;
   color: white;
 }
 
@@ -75,14 +75,6 @@ height: 27.5vw;
   font-size: 2vw;
   color: white;
 }
-
-
-
-
-
-
-
-
 
 
 

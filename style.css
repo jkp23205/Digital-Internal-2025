@@ -8,13 +8,7 @@ body {
 }
 
 
-
-
-
-
-
-
-
+/* navigation bar */
 nav {
   display: flex;
   align-items: center;
@@ -54,13 +48,7 @@ nav a:hover {
 }
 
 
-
-
-
-
-
-
-
+/* image button cards/captions */
 .card {
 background-color: #6d4040;
 height: 27.5vw;
@@ -77,9 +65,7 @@ height: 27.5vw;
 }
 
 
-
-
-
+/* judas.html bottom image caption */
 .pagecaption {
   position: absolute;
   top: 27%;
@@ -92,6 +78,7 @@ height: 27.5vw;
   padding: 3vw;
 }
 
+/* mary.html bottom image caption */
 .pagecaption2 {
   position: absolute;
   top: 0%;
@@ -104,6 +91,7 @@ height: 27.5vw;
   padding: 3vw;
 }
 
+/* solomon.html bottom image caption */
 .pagecaption3 {
   position: absolute;
   top: 45%;
@@ -117,6 +105,7 @@ height: 27.5vw;
   padding: 4vw;
 }
 
+/* caption across all pages' header images */
 .caption {
   position: absolute;
   top: 27%;
@@ -133,6 +122,8 @@ height: 27.5vw;
   padding: 3vw;
 }
 
+
+/* index page header image */
 .carousel {
   position: relative;
   width: 100%;
@@ -165,6 +156,8 @@ height: 27.5vw;
   width: 100%;
 }
 
+
+/* judas, mary, solomon pages header images */
 .carousel2 {
   position: relative;
   width: 100%;
@@ -190,6 +183,8 @@ height: 27.5vw;
   width: 100%;
 }
 
+
+/* index button images */
 .buttonimages {
   transition: transform 0.3s ease, filter 0.3s ease;
   box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.64);
@@ -201,72 +196,7 @@ height: 27.5vw;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* homepage image button column */
 .homepagetriplecolumn {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -306,14 +236,7 @@ height: 27.5vw;
 }
 
 
-
-
-
-
-
-
-
-
+/* judas, mary, solomon page columns */
 .pagecolumn {
   display: grid;
   grid-template-columns: 1fr 1.5fr;
@@ -345,57 +268,7 @@ height: 27.5vw;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* footer code */
 .footer {
   -webkit-user-select: none;
   -ms-user-select: none;
